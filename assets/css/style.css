@@ -1,7 +1,23 @@
 body {
     font-family: 'Potta One', cursive;
 }
-footer {
+footer>p {
     background-color: #16304E;
     color: white;
+}
+.row{
+    color: aliceblue;
+}
+.form-label-group{
+    text-align: center;
+    margin-left: 100px;
+    width: 300px;
+    align-content: center;
+}
+button{
+    align-content: center;
+    width: 200px;
+}
+p{
+    color: black;
 }
