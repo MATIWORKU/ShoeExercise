@@ -21,3 +21,10 @@ button{
 p{
     color: black;
 }
+.about{
+    border-radius: 70px;
+}
+h2{
+    font-family: 'Hachi Maru Pop', cursive;
+    color: #16304E;
+}
